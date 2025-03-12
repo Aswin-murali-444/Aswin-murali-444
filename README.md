@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on hands on projects<br>👯 I’m looking to collaborate on Full Stack & Cybersecurity Projects<br>🤝 I’m looking for help with Job opportunities & advanced cybersecurity concepts<br>🌱 I’m currently learning MERN Stack, Cloud Deployment & Ethical Hacking<br>💬 Ask me abo# 🚀 Aswin Murali | Full Stack Developer & Cybersecurity Specialist
+🔭 I’m currently working on hands on projects<br>👯 I’m looking to collaborate on Full Stack & Cybersecurity Projects<br>🤝 I’m looking for help with Job opportunities & advanced cybersecurity concepts<br>🌱 I’m currently learning MERN Stack, Cloud Deployment & Ethical Hacking<br>💬 Ask me about# 🚀 Aswin Murali | Full Stack Developer & Cybersecurity Specialist
 
 ## Professional Summary
 Seasoned MCA candidate specializing in full-stack development and cybersecurity. Combining robust technical expertise with a passion for building secure, scalable applications. Experienced in MERN stack development with a strong foundation in cloud deployment and security vulnerability assessment.
